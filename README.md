@@ -53,3 +53,6 @@ git clone https://github.com/EndlessEden/plasma-simplyplural.git
 cd plasma-simplyplural/package
 kpackagetool5 -i .
 ```
+
+## Inspiration
+Made with love, for all those who also fill your life with songs of joy and sometimes... chaos. (♥EMJ) 
