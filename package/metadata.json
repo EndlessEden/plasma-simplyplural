@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Id": "org.kde.plasma.simplyplural",
+        "Name": "Simply Plural Frontend",
+        "Description": "Real-time tracking of friends' actively fronting members via Simply Plural.",
+        "Icon": "preferences-system-users",
+        "Authors": [
+            {
+                "Name": "EndlessEden",
+                "Email": "endlesseden@deep-rose.org"
+            }
+        ],
+        "Category": "Utilities",
+        "Version": "0.1",
+        "Website": "https://github.com/EndlessEden/plasma-simplyplural",
+        "License": "GPL-3.0+",
+        "EnabledByDefault": true
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
